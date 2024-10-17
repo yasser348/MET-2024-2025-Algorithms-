@@ -11,3 +11,4 @@ arr = [88, 77, 10, 55, 19]
 print("Original array:", arr)
 selection_sort(arr)
 print("Sorted array:",arr)
+#section 2
