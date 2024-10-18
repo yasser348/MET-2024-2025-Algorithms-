@@ -1,4 +1,4 @@
-#sec 5
+#sec 1
 # mouner saleh saleh
 
 def selection_sort(arr):
